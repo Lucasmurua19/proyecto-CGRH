@@ -16,6 +16,7 @@
 - Diego Ares, GitHub: [@diegote7](https://github.com/diegote7).
 - Fernando Gimenez Coria, GitHub: [@FernandoGC](https://github.com/FerCbr).
 - Raul Jara, GitHub: [@r-j28](https://github.com/r-j28).
+- Nahuel Velez, GitHub: [@Lucasmurua19](https://github.com/Lucasmurua19).
 
 ### La Formación Profesional
  
